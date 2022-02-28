@@ -1,1 +1,8 @@
 *~
+*.*fasl
+*.o
+*.so
+/sources/clm-5/config.log
+/sources/clm-5/sndplay
+/sources/clm-5/config.status
+/sources/clm-5/mus-config.h
